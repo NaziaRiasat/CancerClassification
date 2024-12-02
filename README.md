@@ -1,4 +1,4 @@
-#Molecular Classification of Cancer Class Discovery and Class Prediction by Gene Expression Monitoring
+# Molecular Classification of Cancer Class Discovery and Class Prediction by Gene Expression Monitoring
 
 The project examined a small gene expression dataset and attempted to classify leukemia patients into one of two classes. Golub et. al (1999) measured the expression levels of 7,129 genes for 72 patients diagnosed with acute lymphoblastic leukemia (ALL) or acute myeloid leukemia (AML).  
 
